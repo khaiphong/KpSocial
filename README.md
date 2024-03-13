@@ -1,2 +1,3 @@
 # kp_social
-Social to promote "Core Values of Honesty &amp; Care".
+
+Sustainable Social to promote "<b>Core Values of Honesty &amp; Care</b>".
