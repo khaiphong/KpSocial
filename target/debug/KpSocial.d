@@ -1,0 +1,1 @@
+/home/batien/Kp/GitSrc/github.com/khaiphong/KpSocial/target/debug/KpSocial: /home/batien/Kp/GitSrc/github.com/khaiphong/KpSocial/src/lib.rs /home/batien/Kp/GitSrc/github.com/khaiphong/KpSocial/src/main.rs
